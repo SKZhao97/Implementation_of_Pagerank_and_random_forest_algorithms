@@ -1,0 +1,9 @@
+1. What is the main reason to use a random forest versus a decision tree? 
+
+Random forest is a strong modeling technique and more robust than single decision tree. It aggregates multiple decision trees to limit overfitting. And the multiple trees also reduce the variance caused by bad performance of  certain trees. Therefore random forest yields more accurate results.
+
+2. How long did your random forest take to run? 
+284 s
+
+3. What accuracy were you able to obtain?
+97.59%
